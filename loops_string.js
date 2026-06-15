@@ -82,6 +82,9 @@ console.log(str[0]);
 let newStr = str.toUpperCase(); // (converts the string into uppercase)
 console.log(newStr);
 
-//slice(start,end) method 
+//slice(start,end) method (prints the part of a string from starting index to excluding the ending index)
 let str1="bhubaneswar";
 console.log(str1.slice(2,5));
+
+//prompt the user to enter their full name . generate a username for them based on their input start with @ and ending with the fullname length.
+
